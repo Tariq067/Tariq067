@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI (python)
 - 🌱 I’m currently learning Python and AI
 - 💞️ I’m looking to collaborate on AI and Python
-- 📫 How to reach me theough my email
+- 📫 How to reach me through my email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
