@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tariq067
-- 👀 I’m interested in AI (python)
-- 🌱 I’m currently learning Python and AI
-- 💞️ I’m looking to collaborate on AI and Python
+- 👀 I’m interested in Front End Web Development
+- 🌱 I’m currently learning Java Script
+- 💞️ I’m looking to collaborate on Java Script 
 - 📫 How to reach me through my email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
